@@ -21,7 +21,7 @@ p {
 
 .cover {
     height: 400px;
-    background-image: url(images/rsz_sheelah-brennan-uaevmc51ttw-unsplash.jpg);
+    background-image: url(../images/rsz_sheelah-brennan-uaevmc51ttw-unsplash.jpg);
     color: white;
     background-size: cover;
     background-position: center;
@@ -99,14 +99,6 @@ p {
     background-size: cover;
     background-position: center;
     margin: 0 auto;
-}
-
-.icons-container {
-    width: 100%;
-    height: 100px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
 }
 
 .icons span {
